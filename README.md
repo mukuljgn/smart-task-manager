@@ -74,7 +74,7 @@ src/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smart-task-manager.git
+git clone https://github.com/mukuljgn/smart-task-manager.git
 ```
 
 2. Navigate to the project directory
